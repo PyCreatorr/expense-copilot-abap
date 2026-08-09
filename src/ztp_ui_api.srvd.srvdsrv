@@ -1,0 +1,10 @@
+@EndUserText.label: 'Expense Copilot DMO Read API'
+define service ZTP_UI_API {
+  expose ZTP_I_FLIGHTS     as Flights;
+  expose ZTP_I_Agencies    as Agencies;
+  expose ZTP_I_CUSTOMERS   as Customers;
+  expose ZTP_I_CONNECTIONS as Connections;
+  expose ZTP_I_AIRPORTS    as Airports;
+  expose ZTP_I_BOOKINGS    as Bookings;
+  expose ZTP_I_TRAVELS     as Travels;
+}
