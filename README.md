@@ -353,15 +353,15 @@ The full end-to-end portfolio project is **SAP BTP Travel Expense Intelligence**
 
 Main application repository:
 
-[`PyCreatorr/expense-copilot`](https://github.com/PyCreatorr/expense-copilot)
+[`sap-btp-travel-expence-intelligence`](https://github.com/PyCreatorr/sap-btp-travel-expense-intelligence)
 
 ABAP backend repository:
 
-[`PyCreatorr/expense-copilot-abap`](https://github.com/PyCreatorr/expense-copilot-abap)
+[`expense-copilot-abap`](https://github.com/PyCreatorr/expense-copilot-abap)
 
 The main application contains the CAP / Node.js services, prepared travel dataset, SAP HANA Cloud persistence, receipt-processing and validation logic, cost-efficiency analytics, and SAPUI5 / SAP Fiori user interface.
 
-A dedicated video for this ABAP repository is not required. The end-to-end demo belongs to the main [`expense-copilot`](https://github.com/PyCreatorr/expense-copilot) application and can link back to this repository as the SAP ABAP data-provider layer.
+A dedicated video for this ABAP repository is not required. The end-to-end demo belongs to the main [`sap-btp-travel-expence-intelligence`](https://github.com/PyCreatorr/sap-btp-travel-expense-intelligence) application and can link back to this repository as the SAP ABAP data-provider layer.
 
 ---
 
